@@ -9,7 +9,7 @@ Installation
 ------------
 Clone the repository and compile it:
 ```sh
-$ git clone git@github.com:strawbrary/php-blake2.git
+$ git clone git@github.com:ThomasNYoung/php-blake2.git
 $ cd php-blake2
 $ phpize
 $ ./configure --enable-blake2
