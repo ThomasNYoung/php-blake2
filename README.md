@@ -19,7 +19,8 @@ $ make && sudo make install
 Enable the extension by adding the following line to your php.ini file:
 
 ```sh
-extension=blake2.so
+/usr/local/etc/php/8.2/
+extension=blake2
 ```
 
 You may need to restart your web server to load the extension.
